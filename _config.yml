@@ -1,0 +1,8 @@
+title: Lies Incorporated
+description: ... but the computer, being programmed to lie, would of course lie --  even to Lies Incorporated itself.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
